@@ -1,6 +1,6 @@
 package HomeWorkEasy1502;
 
-import java.util.Scanner;
+import java.util.Scanner; //добавлен коммент
 
 public class Main {
     public static void main(String[] args) {
